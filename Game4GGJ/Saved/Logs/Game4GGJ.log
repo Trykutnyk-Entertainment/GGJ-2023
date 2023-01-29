@@ -1808,3 +1808,5 @@ Script Stack (0 frames) :
 [2023.01.29-14.08.52:824][575]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
 [2023.01.29-14.08.55:859][757]LogContentBrowser: Attempting asset rename: NewFolder -> Weapon
 [2023.01.29-14.08.55:859][757]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.29-14.15.18:294][217]LogWindowsTextInputMethodSystem: Activated input method: Українська (Україна) - (Keyboard).
+[2023.01.29-14.15.18:294][217]LogWindowsTextInputMethodSystem: Activated input method: Українська (Україна) - (Keyboard).
