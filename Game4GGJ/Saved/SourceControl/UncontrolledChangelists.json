@@ -5,6 +5,23 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
+=======
+				"D:/UE5 Projects/PreProjeck_GGJ_2/GGJ-2023/Game4GGJ/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UE5 Projects/PreProjeck_GGJ_2/GGJ-2023/Game4GGJ/Content/lvl1_Tutorial.umap",
+				"D:/UE5 Projects/PreProjeck_GGJ_2/GGJ-2023/Game4GGJ/Content/StarterContent/Materials/M_Basic_Floor.uasset",
+				"D:/UE5 Projects/PreProjeck_GGJ_2/GGJ-2023/Game4GGJ/Content/lvl7_Normal3.umap",
+				"D:/UE5 Projects/PreProjeck_GGJ_2/GGJ-2023/Game4GGJ/Content/lvl2_Easy1.umap",
+				"D:/UE5 Projects/PreProjeck_GGJ_2/GGJ-2023/Game4GGJ/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"D:/UE5 Projects/PreProjeck_GGJ_2/GGJ-2023/Game4GGJ/Content/LevelPrototyping/Materials/dunamic_materials/LVL2/PM_Outline_Inst.uasset",
+				"D:/UE5 Projects/PreProjeck_GGJ_2/GGJ-2023/Game4GGJ/Content/LevelPrototyping/Materials/dunamic_materials/LVL2/PM_Outline_Inst_2.uasset",
+				"D:/UE5 Projects/PreProjeck_GGJ_2/GGJ-2023/Game4GGJ/Content/LevelPrototyping/Materials/test/LVL2/PPI_oUTLINEsHADER_Inst.uasset",
+				"D:/UE5 Projects/PreProjeck_GGJ_2/GGJ-2023/Game4GGJ/Content/lvl3_Easy2.umap",
+				"D:/UE5 Projects/PreProjeck_GGJ_2/GGJ-2023/Game4GGJ/Content/lvl4_Easy3.umap",
+				"D:/UE5 Projects/PreProjeck_GGJ_2/GGJ-2023/Game4GGJ/Content/lvl5_Normal1.umap",
+				"D:/UE5 Projects/PreProjeck_GGJ_2/GGJ-2023/Game4GGJ/Content/lvl6_Normal2.umap",
+				"D:/UE5 Projects/PreProjeck_GGJ_2/GGJ-2023/Game4GGJ/Content/Start_Menu.umap",
+>>>>>>> Stashed changes
 				"D:/Games/GGJ-2023/Game4GGJ/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Games/GGJ-2023/Game4GGJ/Content/ptaxalv/AI.uasset",
 				"D:/Games/GGJ-2023/Game4GGJ/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/DD/654T6CAPVSXAN1LXEX71EI.uasset",
